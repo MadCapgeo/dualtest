@@ -1232,3 +1232,13 @@ p.microcontentheading
 	font-weight: bold;
 }
 
+p.footer
+{
+	line-height: 20pt;
+	font-size: 12pt;
+	letter-spacing: .25;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	text-align: right;
+}
+

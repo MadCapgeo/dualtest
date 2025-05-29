@@ -11,6 +11,7 @@
                     </xhtml:head>
                     <xhtml:body>
                         <MadCap:snippetBlock xhtml:src="../../../Snippets/RightPageFooterTable.flsnp" />
+                        <xhtml:p xhtml:class="footer">This is a very long variable that should not wrap because it is text algined right</xhtml:p>
                     </xhtml:body>
                 </xhtml:html>
             </Content>
